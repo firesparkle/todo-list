@@ -1,1 +1,5 @@
-[{ "id": "fdsfdsf", "isChecked": false, "title": "hi" }]
+[
+  { "id": "fdsfdsf", "isChecked": false, "title": "widows" },
+  { "id": "vdsvd", "isChecked": true, "title": "macOs" },
+  { "id": "weqwerqw", "isChecked": false, "title": "ubuntu" }
+]
